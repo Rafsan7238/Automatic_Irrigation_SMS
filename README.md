@@ -2,7 +2,7 @@
 
 For our CSE360 final lab project, we propose to build an “Automatic Irrigation System with SMS 
 Updates”. This is a software-based simulation project which aims to automate the irrigation process 
-using an ultrasonic sensor, soil moisture sensor and Arduino microcontroller. The ultrasonic sensor 
+using an ultrasonic sensor, soil moisture sensor, GSM module and Arduino microcontroller. The ultrasonic sensor 
 will be used to measure the water level in a tank and whenever, it goes below a certain level, a tank 
 motor will be turned on to fill up tank and turned off when it is full. The soil moisture sensor picks 
 up the moisture of the soil and if it goes below a certain threshold, a water pump will pump water to 
